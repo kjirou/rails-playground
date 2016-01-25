@@ -1,0 +1,2 @@
+# rails-playground
+Hello, Rails!
